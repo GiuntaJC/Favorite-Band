@@ -1,0 +1,11 @@
+.album {
+  float: left;
+}
+
+.sidebar {
+  width: 25%;
+  color: white;
+  background-color: #4b0082;
+  clear: left;
+  float: left;
+}
